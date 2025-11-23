@@ -2,3 +2,5 @@
 let wh = window.innerHeight;
 let ww = window.innerWidth;
 let screen = window.Screen; 
+
+screen = wh + ww;  //errr  what 
